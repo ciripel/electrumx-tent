@@ -2,6 +2,9 @@
  ChangeLog
 ===========
 
+Version 1.16.1 (25 May 2021)
+============================
+* coin rebranding: SnowGem -> TENT
 
 Version 1.16.0 (10 Dec 2020)
 ============================
