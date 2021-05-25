@@ -1,5 +1,5 @@
 import setuptools
-version = '1.16.0'
+version = '1.16.1'
 
 setuptools.setup(
     name='e-x',
@@ -29,9 +29,9 @@ setuptools.setup(
     author='Electrum developers',
     author_email='electrumdev@gmail.com',
     license='MIT Licence',
-    url='https://github.com/spesmilo/electrumx',
+    url='https://github.com/ciripel/electrumx-tent',
     long_description='Server implementation for the Electrum protocol',
-    download_url=('https://github.com/spesmilo/electrumX/archive/'
+    download_url=('https://github.com/ciripel/electrumX-tent/archive/'
                   f'{version}.tar.gz'),
     classifiers=[
         'Development Status :: 5 - Production/Stable',

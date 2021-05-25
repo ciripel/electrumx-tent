@@ -1430,9 +1430,9 @@ class ZcashTestnet(Zcash):
     RPC_PORT = 18232
 
 
-class SnowGem(EquihashMixin, Coin):
-    NAME = "SnowGem"
-    SHORTNAME = "XSG"
+class TENT(EquihashMixin, Coin):
+    NAME = "TENT"
+    SHORTNAME = "TENT"
     NET = "mainnet"
     P2PKH_VERBYTE = bytes.fromhex("1C28")
     P2SH_VERBYTES = (bytes.fromhex("1C2D"),)
